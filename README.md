@@ -18,7 +18,7 @@
 127.0.0.1 magento-local.com
 ```
 
-4. Run `dockergento start` from the cloned project root folder
+4. Run `dockergento start` from the cloned project root folder and then `dockergento composer update`
 5. If you visit `http://magento-local.com/` in your browser, you should see magento welcome screen before the setup
 
 ### Setting Up Magento for your local
